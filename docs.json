@@ -9,6 +9,11 @@
     "dark": "#B64119"
   },
   "favicon": "/favicon.svg",
+  "styling": {
+    "modeToggle": {
+      "default": "light"
+    }
+  },
   "navigation": {
     "tabs": [
       {
