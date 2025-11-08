@@ -48,10 +48,6 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:support@slidely.ai"
-      },
-      {
         "label": "Pricing",
         "href": "https://slidely.ai/pricing"
       }
@@ -59,7 +55,7 @@
     "primary": {
       "type": "button",
       "label": "Get Started",
-      "href": "https://slidely.ai/signup"
+      "href": "https://slidely.ai/signin"
     }
   },
   "contextual": {
@@ -76,17 +72,16 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/slidely",
-      "github": "https://github.com/slidely",
-      "linkedin": "https://linkedin.com/company/slidely"
+      "x": "https://twitter.com/slidelyAI",
+      "linkedin": "https://www.linkedin.com/company/slidelyai"
     },
     "links": [
       {
         "header": "Product",
         "items": [
           {
-            "label": "Features",
-            "href": "https://slidely.ai/features"
+            "label": "Download add-in",
+            "href": "https://slidely.ai/download-addin"
           },
           {
             "label": "Pricing",
@@ -99,7 +94,7 @@
         "items": [
           {
             "label": "About",
-            "href": "https://slidely.ai/about"
+            "href": "https://www.ycombinator.com/companies/slidely-ai"
           },
           {
             "label": "Blog",
